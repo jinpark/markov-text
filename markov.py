@@ -7,7 +7,7 @@ import sys
 import sqlite3
 import codecs
 
-SENTENCE_SEPARATOR = '.'
+SENTENCE_SEPARATOR = '\n'
 WORD_SEPARATOR = ' '
 
 if __name__ == '__main__':
